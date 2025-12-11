@@ -10,7 +10,7 @@ A collection of computational modeling and data analysis projects demonstrating 
 
 Implemented a reaction-diffusion model simulating fox-bunny population dynamics on a 200×200 spatial grid. Identified critical phase transition thresholds where systems shift from stable to oscillatory behavior. Discovered that diffusion rate ratios create distinct spatial patterns (scattered, clustered, uniform). Compared empirical simulation results with mean-field theoretical predictions, revealing how spatial structure enables coexistence at higher densities than theory predicts.
 
-[View Report](./project-1/report.pdf) | [View Code](./project-1/simulation.ipynb)
+[View Report](./project-1/bunny_fox_simulation.pdf) | [View Code](./project-1/bunny_foxes_code.ipynb)
 
 ---
 
@@ -20,7 +20,7 @@ Implemented a reaction-diffusion model simulating fox-bunny population dynamics 
 
 Enhanced an agent-based traffic simulation using Berlin's real road network from OpenStreetMap. Developed a density-based congestion model incorporating the Nagel-Schreckenberg framework. Derived a predictive "traffic pressure" metric (betweenness centrality / capacity) that follows a power law relationship with congestion (R² = 0.80). Successfully generalized model to Buenos Aires without recalibration (R² = 0.92), demonstrating that network topology alone can predict congestion hotspots.
 
-[View Report](./project-2/report.pdf) | [View Code](./project-2/simulation.ipynb)
+[View Report](./project-2/traffic_simulation.pdf) | [View Code](./project-2/traffic_simulation_code.ipynb)
 
 ---
 
